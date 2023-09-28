@@ -6,7 +6,6 @@ body {
 
 body {
 	font-family: 'Noto Sans TC', sans-serif;
-	background: black;
 }
 /* 建立一個寬度一致且水平置中的容器，目的是讓每個區塊的內容寬度一致 */
 .container {
